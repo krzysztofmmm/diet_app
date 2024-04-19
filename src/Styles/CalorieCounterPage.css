@@ -1,0 +1,30 @@
+.calorie-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.calorie-table th,
+.calorie-table td {
+  padding: 8px;
+  border: 1px solid #655d5d;
+}
+
+.calorie-table th {
+  background-color: #655d5d;
+  border: 1px solid #ccc;
+}
+
+.button {
+  padding: 5px 10px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #959191;
+}
+
+.button:hover {
+  background-color: #ddd;
+}

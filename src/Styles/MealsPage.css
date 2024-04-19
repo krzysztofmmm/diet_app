@@ -1,0 +1,16 @@
+.meal-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.meal-table th,
+.meal-table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.meal-table th {
+  background-color: #655d5d;
+}

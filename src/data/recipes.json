@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Caesar Salad",
+    "calories": 180
+  },
+  {
+    "id": 2,
+    "name": "Chicken Stir Fry",
+    "calories": 350
+  },
+  {
+    "id": 3,
+    "name": "Beef Tacos",
+    "calories": 400
+  }
+]
